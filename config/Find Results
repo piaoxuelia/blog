@@ -1,0 +1,16 @@
+Searching 14 files for "timez" (case sensitive)
+
+/Volumes/share/laravel/config/app.php:
+   59      |--------------------------------------------------------------------------
+   60      |
+   61:     | Here you may specify the default timezone for your application, which
+   62      | will be used by the PHP date and date-time functions. We have gone
+   63      | ahead and set this to a sensible default for you out of the box.
+   ..
+   65      */
+   66  
+   67:     'timezone' => 'Asia/Shanghai',
+   68  
+   69      /*
+
+2 matches in 1 file
